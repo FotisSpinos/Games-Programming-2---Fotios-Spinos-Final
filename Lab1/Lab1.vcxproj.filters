@@ -117,13 +117,5 @@
     <Object Include="..\res\monkey3.obj">
       <Filter>Resource Files</Filter>
     </Object>
-    <Object Include="..\res\Meshes\Skull.obj">
-      <Filter>Resource Files</Filter>
-    </Object>
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\res\Textures\_Old_Book_Cover_01.jpg">
-      <Filter>Resource Files</Filter>
-    </Image>
   </ItemGroup>
 </Project>
