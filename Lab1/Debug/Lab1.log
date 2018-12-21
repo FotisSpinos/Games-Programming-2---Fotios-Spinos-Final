@@ -1,11 +1,18 @@
-﻿  CharacterController.cpp
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CharacterController.cpp
   Generating Code...
   Skipping... (no relevant changes detected)
-  main.cpp
+  Texture.cpp
+  obj_loader.cpp
+  Mesh.cpp
+  Display.cpp
+  Audio.cpp
   StartScene.cpp
   Shader.cpp
   Scene.cpp
   MainGame.cpp
+  main.cpp
   GameObject.cpp
   CollisionManager.cpp
-  Lab1.vcxproj -> C:\Users\Fotis\Desktop\Games Programming 2 - Fotios Spinos Final\Debug\Lab1.exe
+  stb_image.c
+  Lab1.vcxproj -> C:\Users\Fotis\Desktop\Games Programming 2 - Fotios Spinos Final\Debug\Games Programming 2.exe
